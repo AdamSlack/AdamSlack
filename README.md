@@ -1,4 +1,4 @@
-![Big Buck Bunny Colour Chart](big_buck_bunny.png)
+![Big Buck Bunny Colour Chart](./big_buck_bunny.png)
 
 <!--
 **AdamSlack/AdamSlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
