@@ -2,7 +2,7 @@
 
 Generated on [colours.hapax.xyz](https://colours.hapax.xyz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamslack&layout=compact&theme=radical&exclude_repo=blockchain_and_a_new_financial_order,gpxFog,SOCIAM-XRay,latentEntityModels,xray-csm,graphics,RoadTripSimulator2017)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamslack&layout=compact&theme=radical&exclude_repo=blockchain_and_a_new_financial_order,gpxFog,SOCIAM-XRay,latentEntityModels,xray-csm,graphics,RoadTripSimulator2017)](https://github.com/adamslack)
 
 <!--
 **AdamSlack/AdamSlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
